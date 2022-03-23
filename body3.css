@@ -1,0 +1,60 @@
+body {
+    background-color: papayawhip;
+   }
+
+   h2 {
+    color: gold ;
+    text-align: center;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    border: 10px solid rgb(253, 236, 161);
+
+    }
+    h3 {
+        color: mediumturquoise ;
+        text-align: center;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        }
+
+    h1 {
+        color: mediumturquoise ;
+        text-align: center;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 50px;
+        }
+
+       li {
+            color: goldenrod ;
+            text-align: justifyr ;
+            font-family: Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 25px;
+        
+            }
+
+        botonpersonalizado1 {
+                text-decoration:none;
+                font-weight:600;
+                font-size:20px;
+                color:#ffffff;
+                border: 6px solid gold;
+                padding-top:30px;
+                padding-bottom:30px;
+                padding-left:160px;
+                padding-right:160px;
+                background-color:rgb(253, 236, 161);    
+            }
+        
+        botonpersonalizado2 {
+            text-decoration:none;
+            font-weight:600;
+            font-size:20px;
+            color:#ffffff;
+            border: 6px solid gold;
+            padding-top:30px;
+            padding-bottom:30px;
+            padding-left:160px;
+            padding-right:160px;
+            background-color:rgb(253, 236, 161);
+        
+            }
